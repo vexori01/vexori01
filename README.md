@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vexori01/vexori01/main/assets/banner.svg" width="100%" alt="Vexori - Flutter Developer - Open Source" />
+<img src="https://raw.githubusercontent.com/vexori01/vexori01/9685bb52d866e394b403939db5494f64eefc4061/banner.svg" width="100%" alt="Vexori - Flutter Developer - Open Source" />
 
 <!-- Typing animation -->
 <a href="https://github.com/vexori01">
