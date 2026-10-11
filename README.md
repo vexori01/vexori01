@@ -139,9 +139,7 @@ I love contributing to the Flutter & Dart community. If you have a project that 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vexori01-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vexori01)
-[![Email](https://img.shields.io/badge/Email-Contact-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)
+
 
 <br/>
 
